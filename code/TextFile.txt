@@ -1,0 +1,6 @@
+Name	ID	Birthday	Student
+Alva	213	19890106	Y
+Amos	324	19920505	Y
+Bevis	546	19920214	Y
+Calvin	452	18850101	N
+張舒婷	732	19781212	N
